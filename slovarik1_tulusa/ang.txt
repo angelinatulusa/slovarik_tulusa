@@ -1,0 +1,5 @@
+keyboard
+monitor
+key
+word
+mum
