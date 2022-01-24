@@ -19,7 +19,9 @@ try:
                     add_slovo("rus.txt",input("Введите новое слово на русском "))
                     add_slovo("ang.txt",input("Введите новое слово на английском "))
                 elif b==4:
-                    print("к сожалению данная функция недоступна")#ne pridumala kak eto sdelat
+                    print("К сожалению данная функция недоступна")#ne pridumala kak eto sdelat
+                else:
+                    print("Такого варианта нету!")
             except:
                 ValueError
 
