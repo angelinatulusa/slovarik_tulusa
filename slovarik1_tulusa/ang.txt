@@ -2,4 +2,4 @@ keyboard
 monitor
 key
 word
-mum
+mother
