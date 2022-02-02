@@ -59,5 +59,10 @@ def kontrol(l1:list,l2:list):
     resultat=(vsego_ballov/len(l1))*100
     print(f"Ваш результат: {resultat}%")
 
+#import os
+#from gtts import gTTS
 
+#def heli(text:str,keel:str):
+#	obj=gTTS(text=text,lang=keel,slow=False).save("heli.mp3") 
+#	os.system("heli.mp3")
 

@@ -33,6 +33,8 @@ try:
                 elif b==6:
                     print("Хорошо, до свидания!")
                     break
+               #elif b==7:
+               #    heli(input="Какое слово?",input="На каком языке сказать?") 
                 else:
                     print("Такого варианта нету!")
             except:
